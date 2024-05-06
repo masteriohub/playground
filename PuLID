@@ -1,1 +1,11 @@
-test
+# PuLID: Pure and Lightning ID Customization via Contrastive Alignment
+
+# PuLID is a tuning-free ID customization approach. PuLID maintains high ID fidelity while effectively reducing interference with the original model’s behavior.
+
+@article{guo2024pulid,
+  title={PuLID: Pure and Lightning ID Customization via Contrastive Alignment},
+  author={Guo, Zinan and Wu, Yanze and Chen, Zhuowei and Chen, Lang and He, Qian},
+  journal={arXiv preprint arXiv:2404.16022},
+  year={2024}
+}
+
